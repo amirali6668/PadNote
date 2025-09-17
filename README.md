@@ -23,7 +23,7 @@ tkinter library installed
 tkinter install:
 
 ---
-    pip-install-tkinter
+    pip install tkinter
 ---
 
 
