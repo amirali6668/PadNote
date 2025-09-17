@@ -11,6 +11,8 @@ simple notpad app built in python and with tkinter library.(app is not completed
   - Ctrl + S : Save
 - simple menubar
 
+![PadNote](notpad_shot.png)
+
 ## Run
 requirements:
 python 3
